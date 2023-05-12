@@ -2,7 +2,7 @@
     display:flex ;
     justify-content: space-between;
     padding: 0px;
-    background-color: rgb(14, 146, 14);
+    background-color: rgb(42, 95, 42);
 
     
 }
@@ -10,7 +10,7 @@
 
 .left-side{
     display:flex;
-    color: rgb(255, 0, 34);
+    color: rgb(228, 213, 215);
     
     
 }
