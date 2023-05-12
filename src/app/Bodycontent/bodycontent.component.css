@@ -1,0 +1,17 @@
+.bodyContent{
+    height: 280px;
+    padding: 30px 40px;
+    display: flex;
+    background-color: rgb(96, 134, 96);
+}
+
+.left-side-body {
+    width: auto;
+}
+.right-side-body{
+    width: 420px;
+    margin-left: 50px;
+    text-align: center;
+
+
+}
